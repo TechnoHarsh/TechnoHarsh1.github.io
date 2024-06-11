@@ -1,9 +1,9 @@
-# Introduction 🌟
+# Introduction 
 
 **Harsh Vardhan**  
 *Web Development, AI & ML Student*
 
-# About Me 🚀🔒🔗🧠
+# About Me 🔒🔗
 
 Hello! I'm Harsh Vardhan, a coding student at ASoSE Lajpat Nagar. As a tech visionary with a diverse skill set, I am passionate about exploring the intersections of cybersecurity, blockchain technology, artificial intelligence, machine learning, and full stack web development. 
 
@@ -16,7 +16,7 @@ Fueled by a relentless drive for innovation, I immerse myself in the dynamic wor
 - **Operating System:** Windows
 - **Languages:** English, Hindi
 
-# Other Highlights 🎨💡🌟
+# Other Highlights 💡
 
 - **Tech Visionary:** Passionate about harnessing technology to drive innovation and solve complex problems.
 - **Cybersecurity Enthusiast:** Intrigued by the ever-evolving landscape of cybersecurity and committed to developing robust security solutions.
