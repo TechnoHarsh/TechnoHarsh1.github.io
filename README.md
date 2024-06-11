@@ -1,5 +1,3 @@
-# Introduction 
-
 **Harsh Vardhan**  
 *Web Development, AI & ML Student*
 
